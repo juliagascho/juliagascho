@@ -5,7 +5,7 @@
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Pronouns: ela/dela </p>
 
-  <div align="center">
+  <div align="center" display="flex">
   <a href="https://github.com/juliagascho"> 
 
   <img height="150em" 
