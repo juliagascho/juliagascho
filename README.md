@@ -8,19 +8,15 @@
   <div align="center">
   <a href="https://github.com/juliagascho"> 
 
-  <img 
-  src="https://github-readme-stats.vercel.app/
-	api?username=juliagascho&show_icons=true&
-	theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="100em" 
+  src="https://github-readme-stats.vercel.app/api?username=juliagascho&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 
-  <img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?
-	username=juliagascho&layout=compact&langs_count=7&
-	theme=dracula"/>
+  <img height="100em" 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=juliagascho&layout=compact&langs_count=7&theme=dracula"/>
+	  
   </div>
       
-  <h4> 💻 Linguagens</h4>
-  
+  <h4> 💻 Linguagens</h4>  
   <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" width="30" height="29"/>  
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" width="30" height="29"/> 
@@ -30,14 +26,13 @@
   </p>
   
   <p align="left" <img align="left" style="display:block;" 
-  src="https://github-readme-stats.vercel.app/api/top-langs?
-  username=juliagascho&show_icons=true&locale=en&layout=compact" alt="juliagascho" /></p>
+  src="https://github-readme-stats.vercel.app/api/top-langs?username=juliagascho&show_icons=true&locale=en&layout=compact" alt="juliagascho"/></p>
 
-  <p align="left"> <img src="https://komarev.com/ghpvc/?
+  <p align="left"><img src="https://komarev.com/ghpvc/?
   username=juliagascho&label=Profile%20views&color=0e75b6&style=flat" 
-  alt="juliagascho" /> </p>
+  alt="juliagascho"/></p>
 
-   <h3 align="left">Me siga nas redes sociais:</h3>
+  <h3 align="left">Me siga nas redes sociais:</h3>
   <p align="left">
   <a href="https://www.linkedin.com/in/juliagascho/" 
   target="blank"><img align="center" 
