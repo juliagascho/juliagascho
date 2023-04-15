@@ -5,7 +5,7 @@
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Pronouns: ela/dela </p>
 
-  <div align="left">
+  <div align="center">
   <a href="https://github.com/juliagascho"> 
 
   <img height="150em" 
@@ -25,12 +25,9 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-plain.svg" width="30" height="29"/>          
   </p>
   
-  <p align="left" <img align="left" style="display:block;" 
-	src="https://github-readme-stats.vercel.app/api/top-langs?username=juliagascho&show_icons=true&locale=en&layout=compact" alt="juliagascho"/></p>
+  <p align="left" <img align="left" style="display:block;" rc="https://github-readme-stats.vercel.app/api/top-langs?username=juliagascho&show_icons=true&locale=en&layout=compact" alt="juliagascho"/></p>
 
-  <p align="left"><img src="https://komarev.com/ghpvc/?
-  username=juliagascho&label=Profile%20views&color=0e75b6&style=flat" 
-  alt="juliagascho"/></p>
+  <p align="left"><img src="https://komarev.com/ghpvc/?username=juliagascho&label=Profile%20views&color=0e75b6&style=flat"  alt="juliagascho"/></p>
 
   <h3 align="left">Me siga nas redes sociais:</h3>
   <p align="left">
