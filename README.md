@@ -3,7 +3,7 @@
   <p> ✔️ Desenvolvedora em formação.</p>
   <p> ✔️ Estudante Dev Full Stack.</p>
   <p> ✔️ Em transição de carreira.</p>
-  <p> ✔️ Pronouns: ela/dela </p>
+  <p> ✔️ Pronouns: ela/dela. </p>
 
   <div align="center">
   <a href="https://github.com/juliagascho"> 
