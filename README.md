@@ -1,7 +1,7 @@
 <h3> Olá 👋 ! Eu sou a Ju 😄<h3>
   
   <p> ✔️ Desenvolvedora em formação.</p>
-  <p> ✔️ Estudante Dev Full Stack.</p>
+  <p> ✔️ Dev Full Stack - React & Node.js.</p>
   <p> ✔️ Em transição de carreira.</p>
   <p> ✔️ Pronouns: ela/dela. </p>
 
